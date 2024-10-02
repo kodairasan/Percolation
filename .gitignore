@@ -1,0 +1,11 @@
+# 実行ファイル
+*.out
+*.pyc
+
+# vscodeの設定ファイル
+.vscode/
+
+# Pythonのキャッシュファイル
+__pycache__/
+
+.DS_Store
